@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('SCM Checkout') {
             steps {
-                git 'https://github.com/Arvind22cse/Devops_Guivi.git'
+                git 'https://github.com/Arvind22cse/JK_UB.git'
             }
         }
 
